@@ -1,6 +1,6 @@
-title: Your Site Title
+title: Workshop on Next-Generation Surgical Robotics in Clinical Practice
 description: >- # this means to ignore newlines until "baseurl:"
   A description of your site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://ShanL03.github.io" # the base hostname & protocol for your site
 theme: minima # you can specify other themes available
